@@ -130,7 +130,7 @@ Synthetically generated (~2,000 orders) with realistic patterns:
 ## 👨‍💻 Author
 
 **Abhishek Ansu**  
-[GitHub](https://github.com/abhishekansu) · [LinkedIn](https://www.linkedin.com/in/abhishek-ansu-404468190/)
+[GitHub](https://github.com/abhishekansu) · [LinkedIn](https://linkedin.com/in/abhishekansu)
 
 ---
 
