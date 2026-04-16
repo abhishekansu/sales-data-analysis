@@ -88,4 +88,4 @@ This analysis helps businesses:
 ## 👨‍💻 Author
 
 Abhishek Ansu
-(LinkedIn)(https://www.linkedin.com/in/abhishek-ansu-404468190/)
+[LinkedIn](https://www.linkedin.com/in/abhishek-ansu-404468190/)
